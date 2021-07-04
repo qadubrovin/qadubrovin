@@ -3,7 +3,7 @@
 **QA Automation** who conjure QA, QC, and also just test the web, mobile phones, desktop and I can even test ... a pencil. :-)
 
 - :hammer_and_wrench: automated testing in stack Java + Selenide + Junit + Allure + Jenkins + Telegram
-- :nerd_face: 3+ years expierence in fulltesting
+- :man_technologist: 3+ years expierence in fulltesting
 - :smile_cat: love cats and poetry
 
 ### Contacts
